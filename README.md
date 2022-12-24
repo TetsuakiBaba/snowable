@@ -1,6 +1,5 @@
 # snowable
-![](./teasers/01.gif)
-![](./teasers/02.gif)
+![](./teaser.gif)
 
 let it snow on your desktop
 
@@ -10,6 +9,12 @@ let it snow on your desktop
 > npm start
   ```
 have a fun.
+
+## package your own application
+```
+> npm run package
+```
+
 
 ## Dependencies (npm)
  * electron
